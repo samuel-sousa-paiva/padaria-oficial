@@ -13,7 +13,8 @@ body {
   background: var(--bg);
   line-height: 1.6;
   font-size: 16px;
-   background-image: url("background.png");
+   background-image: url("background.png"); /*Ajuste no nome do arquivo feito pelo professor Clayton em 30/04 as 10:18
+   
 }
 
 /* ===== Acessibilidade ===== */
